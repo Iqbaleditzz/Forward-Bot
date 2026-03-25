@@ -40,7 +40,7 @@ broadcast - broadcast a message to all your users (owner only)
 * `API_HASH` API Hash from my.telegram.org
 * `BOT_TOKEN` Bot token from @BotFather
 * `BOT_OWNER` Telegram Account Id of Owner.
-* `DATABASE_URI` Database uri from [MongoDB](https://mongodb.com) Watch [Video Tutorial](https://youtu.be/DAHRmFdw99o)
+* `DATABASE_URI` Database uri from [MongoDB](https://mongodb.com) Watch [Video Tutorial](https://youtu.be/XnBzS4B6_gA?si=Da5o_DObn2SEHr_c)
 
 ## Credits
 
